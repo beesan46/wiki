@@ -1,0 +1,13 @@
+db:
+  type: postgres
+  host: arisawiki_db.rander.com
+  port: 5432
+  user: arisawiki_db_user
+  pass: SVwpYHZ8hfEyLwtdH2vplpGOsQO8rY0O
+  db: arisawiki-db
+  ssl: false
+
+server:
+  host: 0.0.0.0
+  port: 5432
+  protocol: http
